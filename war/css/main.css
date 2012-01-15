@@ -1,0 +1,106 @@
+body {
+	margin: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+	border: 0;
+	background-color: #DDDDDD;
+	height: 1px;
+	margin: 5px;
+}
+
+ul {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+
+table tr {
+	background-color: #e5ecf9;
+	font-size: small;
+}
+
+.topLine {
+	height: 1.25em;
+	background-color: #e5ecf9;
+	padding-left: 4px;
+	padding-right: 4px;
+	padding-bottom: 3px;
+	padding-top: 2px;
+}
+
+.headline {
+	font-weight: bold;
+	color: #3366cc;
+}
+
+.done {
+	font-size: x-small;
+	vertical-align: top;
+}
+
+.email {
+	font-size: x-small;
+	vertical-align: top;
+}
+
+form td {
+	font-size: smaller;
+}
+
+
+#pagination-flickr li {
+	border: 0;
+	margin: 0;
+	padding: 0;
+	font-size: 11px;
+	list-style: none;
+}
+
+#pagination-flickr a {
+	border: solid 1px #DDDDDD;
+	margin-right: 2px;
+}
+
+#pagination-flickr .previous-off,#pagination-flickr .next-off {
+	color: #666666;
+	display: block;
+	float: left;
+	font-weight: bold;
+	padding: 3px 4px;
+}
+
+#pagination-flickr .next a,#pagination-flickr .previous a {
+	font-weight: bold;
+	border: solid 1px #FFFFFF;
+}
+
+#pagination-flickr .active {
+	color: #ff0084;
+	font-weight: bold;
+	display: block;
+	float: left;
+	padding: 4px 6px;
+}
+
+#pagination-flickr a:link,#pagination-flickr a:visited {
+	color: #0063e3;
+	display: block;
+	float: left;
+	padding: 3px 6px;
+	text-decoration: none;
+}
+
+#pagination-flickr a:hover {
+	border: solid 1px #666666; table th { background : #EFEFEF none repeat
+	scroll 0 0;
+	border-top: 1px solid #CCCCCC;
+	font-size: small;
+	padding-left: 5px;
+	padding-right: 4px;
+	padding-top: 4px;
+	vertical-align: top;
+	text-align: left;
+}

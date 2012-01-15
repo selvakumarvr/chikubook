@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datastore-indexes
+  autoGenerate="true">
+    <datastore-index kind="Post" ancestor="false">
+        <property name="user" direction="asc" />
+        <property name="postDate" direction="desc" />
+    </datastore-index>
+  
+</datastore-indexes>
